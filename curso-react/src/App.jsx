@@ -7,6 +7,6 @@ function App() {
       <TemplateExpressions/>
     </div>
   )
-};
+}
 
 export default App
